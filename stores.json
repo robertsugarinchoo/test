@@ -12,7 +12,7 @@
       "category": "patisserie",
       "hours": "10am - 6pm",
       "description": "Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
-      "name": "Josie's Patisserie Mayfair",
+      "name": "Josie's Patisserie Zagreb",
       "phone": "+44 20 1234 5678",
       "storeid": "01"
     }
@@ -29,7 +29,7 @@
         "category": "patisserie",
         "hours": "10am - 6pm",
         "description": "Come and try our award-winning cakes and pastries. We're part of a larger chain of patisseries and cafes.",
-        "name": "Josie's Patisserie Bristol",
+        "name": "Josie's Patisserie Split",
         "phone": "+44 117 121 2121",
         "storeid": "02"
       }
@@ -47,7 +47,7 @@
         "category": "patisserie",
         "hours": "10am - 6pm",
         "description": "Whatever the occasion, whether it's a birthday or a wedding, Josie's Patisserie has the perfect treat for you. We're part of a larger chain of patisseries and cafes.",
-        "name": "Josie's Patisserie Norwich",
+        "name": "Josie's Patisserie Rijeka",
         "phone": "+44 1603 123456",
         "storeid": "03"
       }
@@ -64,7 +64,7 @@
         "category": "patisserie",
         "hours": "10am - 6pm",
         "description": "A gourmet patisserie that will delight your senses. We're part of a larger chain of patisseries and cafes.",
-        "name": "Josie's Patisserie Wimborne",
+        "name": "Josie's Patisserie Osijek",
         "phone": "+44 1202 343434",
         "storeid": "04"
       }
@@ -81,7 +81,7 @@
         "category": "patisserie",
         "hours": "10am - 6pm",
         "description": "Spoil yourself or someone special with our classic pastries. We're part of a larger chain of patisseries and cafes.",
-        "name": "Josie's Patisserie Liverpool",
+        "name": "Josie's Patisserie Zadar",
         "phone": "+44 151 444 4444",
         "storeid": "05"
       }
@@ -98,7 +98,7 @@
         "category": "patisserie",
         "hours": "10am - 6pm",
         "description": "Come and feast your eyes and tastebuds on our delicious pastries and cakes. We're part of a larger chain of patisseries and cafes.",
-        "name": "Josie's Patisserie Tamworth",
+        "name": "Josie's Patisserie  Slavonski Brod",
         "phone": "+44 5555 55555",
         "storeid": "06"
       }
@@ -115,7 +115,7 @@
         "category": "patisserie",
         "hours": "10am - 6pm",
         "description": "Josie's Patisserie is family-owned, and our delectable pastries, cakes, and great coffee are renowed. We're part of a larger chain of patisseries and cafes.",
-        "name": "Josie's Patisserie Cardiff",
+        "name": "Josie's Patisserie Pula",
         "phone": "+44 29 6666 6666",
         "storeid": "07"
       }
@@ -132,7 +132,7 @@
         "category": "cafe",
         "hours": "8am - 9:30pm",
         "description": "Oakham's favorite spot for fresh coffee and delicious cakes. We're part of a larger chain of patisseries and cafes.",
-        "name": "Josie's Cafe Oakham",
+        "name": "Josie's Cafe Kaštela",
         "phone": "+44 7777 777777",
         "storeid": "08"
       }
@@ -149,7 +149,7 @@
         "category": "cafe",
         "hours": "8am - 9:30pm",
         "description": "Enjoy freshly brewed coffe, and home baked cakes in our homely cafe. We're part of a larger chain of patisseries and cafes.",
-        "name": "Josie's Cafe Blackburn",
+        "name": "Josie's Cafe Karlovac",
         "phone": "+44 8888 88888",
         "storeid": "09"
       }
@@ -166,7 +166,7 @@
         "category": "cafe",
         "hours": "8am - 9:30pm",
         "description": "A delicious array of pastries with many flavours, and fresh coffee in an snug cafe. We're part of a larger chain of patisseries and cafes.",
-        "name": "Josie's Cafe Crawley",
+        "name": "Josie's Cafe Sisak",
         "phone": "+44 1010 101010",
         "storeid": "10"
       }
@@ -183,7 +183,7 @@
         "category": "cafe",
         "hours": "8am - 9:30pm",
         "description": "Grab a freshly brewed coffee, a decadent cake and relax in our idyllic cafe. We're part of a larger chain of patisseries and cafes.",
-        "name": "Josie's Cafe Brighton",
+        "name": "Josie's Cafe Dubrovnik",
         "phone": "+44 1313 131313",
         "storeid": "11"
       }
@@ -200,7 +200,7 @@
         "category": "cafe",
         "hours": "8am - 9:30pm",
         "description": "Come in and unwind at this idyllic cafe with fresh coffee and home made cakes. We're part of a larger chain of patisseries and cafes.",
-        "name": "Josie's Cafe Newtown",
+        "name": "Josie's Cafe Vukovar",
         "phone": "+44 1414 141414",
         "storeid": "12"
       }
@@ -218,7 +218,7 @@
         "category": "cafe",
         "hours": "8am - 9:30pm",
         "description": "Fresh coffee and delicious cakes in an snug cafe. We're part of a larger chain of patisseries and cafes.",
-        "name": "Josie's Cafe Ipswich",
+        "name": "Josie's Cafe Vinkovci",
         "phone": "+44 1717 17171",
         "storeid": "13"
       }
